@@ -36,10 +36,10 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -53,15 +53,33 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'WGU',
+			icon: 'graduation-cap',
+			link: 'https://my.wgu.edu',
 		},
 		{
 			id: '2',
+			name: 'ZyBooks',
+			icon: 'book',
+			link: 'https://learn.zybooks.com/library',
+		},
+		{
+			id: '3',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
+		},
+		{
+			id: '4',
+			name: 'Netflix',
+			icon: 'tv-2',
+			link: 'https://www.netflix.com/',
+		},
+		{
+			id: '5',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 	],
 
@@ -71,12 +89,6 @@ const CONFIG = {
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
-		},
-		{
-			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
 		},
 	],
 
@@ -91,20 +103,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'C#',
+					link: 'https://www.reddit.com/r/csharp/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'typescript',
+					link: 'https://www.reddit.com/r/typescript/',
 				},
 			],
 		},
@@ -117,8 +129,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
 					name: 'Trello',
@@ -145,10 +157,6 @@ const CONFIG = {
 				{
 					name: 'Reddit',
 					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
 				},
 			],
 		},
