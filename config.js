@@ -99,7 +99,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'binary',
 			id: '1',
 			links: [
 				{
@@ -115,7 +115,7 @@ const CONFIG = {
 					link: 'https://www.reddit.com/r/csharp/',
 				},
 				{
-					name: 'typescript',
+					name: 'Typescript',
 					link: 'https://www.reddit.com/r/typescript/',
 				},
 			],
