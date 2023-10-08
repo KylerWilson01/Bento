@@ -103,8 +103,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
+				{
 					name: 'Go',
 					link: 'https://www.reddit.com/r/golang/',
+				},
+				{
+					name: 'C#',
+					link: 'https://www.reddit.com/r/csharp/',
 				},
 				{
 					name: 'Typescript',
@@ -117,12 +125,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
 				},
 			],
 		},
@@ -138,12 +154,20 @@ const CONFIG = {
 					name: 'Spotify',
 					link: 'https://www.spotify.com',
 				},
+				{
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
+				},
 			],
 		},
 		{
 			icon: 'github',
 			id: '2',
 			links: [
+				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
 				{
 					name: 'Go',
 					link: 'https://www.reddit.com/r/golang/',
