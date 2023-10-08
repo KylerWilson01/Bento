@@ -116,6 +116,10 @@ const CONFIG = {
 			icon: 'coffee',
 			id: '2',
 			links: [
+				{
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
+				},
 			],
 		},
 	],
