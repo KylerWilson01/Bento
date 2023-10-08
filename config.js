@@ -120,6 +120,10 @@ const CONFIG = {
 					name: 'Go',
 					link: 'https://www.reddit.com/r/golang/',
 				},
+				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
 			],
 		},
 	],
