@@ -111,12 +111,12 @@ const CONFIG = {
 					link: 'https://www.reddit.com/r/golang/',
 				},
 				{
-					name: 'C#',
-					link: 'https://www.reddit.com/r/csharp/',
-				},
-				{
 					name: 'Typescript',
 					link: 'https://www.reddit.com/r/typescript/',
+				},
+				{
+					name: 'NixLang',
+					link: 'https://nixos.org/manual/nix/unstable/language/index.html',
 				},
 			],
 		},
@@ -125,20 +125,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Hacker News',
+					link: 'https://news.ycombinator.com/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'NixOS',
+					link: 'https://nixos.org/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Obsidian',
+					link: 'https://obsidian.md/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Unix Rice',
+					link: 'https://www.reddit.com/r/unixporn/',
 				},
 			],
 		},
