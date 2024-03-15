@@ -79,7 +79,7 @@ const CONFIG = {
       id: "3",
       name: "Anime",
       icon: "tv",
-      link: "https://9animetv.to/",
+      link: "https://aniwave.to/",
     },
     {
       id: "2",
